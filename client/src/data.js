@@ -10,7 +10,7 @@ export const posts = [
   },
   {
     id: 2,
-    username: "Desi",
+    username: "desi",
     fullname: "Desi Sari",
     userImg:
       "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
